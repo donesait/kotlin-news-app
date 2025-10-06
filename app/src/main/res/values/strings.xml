@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Новости</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Избранное</string>
+    <string name="title_notifications">Профиль</string>
+    <string name="search_hint">Поиск новостей</string>
+    <string name="empty_state">Ничего не найдено</string>
+    <string name="retry">Повторить</string>
+    <string name="details_title">Детали новости</string>
+</resources>
